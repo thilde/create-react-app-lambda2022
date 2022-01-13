@@ -38,8 +38,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/sm5czh2xix7fy8/LSEERDAVDN1GS.js'></script><!-- End Square Appointments Embed Code -->          </p>
           <LambdaDemo />
         </header>
       </div>
@@ -48,4 +47,3 @@ class App extends Component {
 }
 
 export default App
-
